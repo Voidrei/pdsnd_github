@@ -11,5 +11,5 @@ The project is about bike rides around the cities
 data sets for Chicago, New York City and Washinton.
 
 ### Credits
-all the credits to udacity since I used the code they gave. Also, I used some help from the knowledge section.
+all the credits to udacity since I used the code they gave us. Also, I used some help from the knowledge section.
 
