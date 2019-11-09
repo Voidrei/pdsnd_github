@@ -5,7 +5,7 @@ October 12, 2019
 Bikeshare
 
 ### Description
-The project is about bike rides around the cities
+The project is about bike rents around the cities and keep information about the riders.
 
 ### Files used
 data sets for Chicago, New York City and Washinton.
